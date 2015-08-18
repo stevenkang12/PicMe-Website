@@ -126,7 +126,7 @@ body {
 
 .links {
   font-size: 0.6em;
-  position: absolute;
+  position: fixed;
   bottom: 10px;
   right: 0;
 }

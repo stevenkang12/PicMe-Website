@@ -65,7 +65,7 @@ body {
 .info h1 {
   font-size: 3.5em;
   line-height: 1.1em;
-  margin: 0px auto 50px auto;
+  margin: 0px auto 35px auto;
 }
 
 .info #icon_link, .info #twitter_link {
@@ -84,7 +84,7 @@ body {
 }
 
 .info #twitter {
-  margin: 50px auto 0 auto;
+  margin: 35px auto 0 auto;
   height: 30px;
   border: 0;
 }
@@ -126,9 +126,7 @@ body {
 
 .links {
   font-size: 0.6em;
-  position: fixed;
-  bottom: 10px;
-  right: 0;
+  margin-top: 35px;
 }
 
 .links a {
